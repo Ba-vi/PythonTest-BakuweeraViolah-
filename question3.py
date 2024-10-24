@@ -6,7 +6,6 @@
 def sum_of_numbers():
         numbers = int(input("Enter the numbers : "))
         numbers.repeat
-        print(f"number")
         sum = 0
         total_sum =[numbers]
         for sums in total_sum:
